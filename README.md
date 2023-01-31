@@ -1,14 +1,14 @@
 [![Snakemake](https://img.shields.io/badge/snakemake-≥7.20.0-brightgreen.svg)](https://snakemake.github.io)
 ![release](https://img.shields.io/github/v/release/sebastian-gregoricchio/multiDUMP)
 [![license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://sebastian-gregoricchio.github.io/multiDUMP/LICENSE.md/LICENSE)
-[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/snHiC?style=social)](https://github.com/sebastian-gregoricchio/multiDUMP/fork)
+[![forks](https://img.shields.io/github/forks/sebastian-gregoricchio/multiDUMP?style=social)](https://github.com/sebastian-gregoricchio/multiDUMP/fork)
 <!-- ![update](https://badges.pufler.dev/updated/sebastian-gregoricchio/multiDUMP)
 ![visits](https://badges.pufler.dev/visits/sebastian-gregoricchio/multiDUMP)
 ![downloads](https://img.shields.io/github/downloads/sebastian-gregoricchio/multiDUMP/total.svg)--->
 
 
 
-# multiDUMP [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/snHiC/main/resources/snHiC_logo.svg" align="right" height = 150/>](https://sebastian-gregoricchio.github.io/snHiC)
+# multiDUMP [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/multiDUMP/main/resources/multiDUMP_logo.svg" align="right" height = 150/>](https://sebastian-gregoricchio.github.io/multiDUMP)
 
 ## Introduction
 `multiDUMP` is simple snakemake based pipeline to parallelize the download of SRA data through `fastq-dump`.
