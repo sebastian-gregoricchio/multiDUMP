@@ -1,0 +1,3 @@
+SRA_ID 	sample_name
+SRR125346 	sampleA
+SRR578951 	sampleB
