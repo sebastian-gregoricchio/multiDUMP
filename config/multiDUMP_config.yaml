@@ -1,0 +1,9 @@
+# This .yaml cofinguration file contains all variables used by the snakemake pipeline
+# DO NOT CHANGE parameter names without changing it in Snakefile as well
+# On the other hand, some parameter values have to be inevitably modifed
+# **********************************************************************************************************************************
+
+TABLE: "/home/user/sample_table.txt"
+OUTDIR: "/home/user/downloaded_fastq"
+SUFFIX: ["_R1", "_R2"]
+EXTENSION: ".fastq.gz"
