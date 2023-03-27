@@ -95,4 +95,4 @@ This repository is under a [GNU General Public License (version 3)](https://seba
 <br/>
 
 #### Contributors
-[![contributors](https://badges.pufler.dev/contributors/sebastian-gregoricchio/multiDUMP?size=50&padding=5&bots=true)](https://sebastian-gregoricchio.github.io/)
+[![contributors](https://contrib.rocks/image?repo=sebastian-gregoricchio/multiDUMP)](https://sebastian-gregoricchio.github.io/)
