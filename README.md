@@ -8,7 +8,7 @@
 
 
 
-# multiDUMP [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/multiDUMP/main/resources/multiDUMP_logo.svg" align="right" height = 150/>](https://sebastian-gregoricchio.github.io/multiDUMP)
+# multiDUMP [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/multiDUMP/main/resources/multiDUMP_logo.svg" align="right" height = 200/>](https://sebastian-gregoricchio.github.io/multiDUMP)
 
 ## Introduction
 `multiDUMP` is simple snakemake based pipeline to parallelize the download of SRA data through `fastq-dump`.
