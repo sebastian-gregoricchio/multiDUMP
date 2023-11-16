@@ -86,6 +86,14 @@ snakemake \
 ```
 
 
+<br>
+
+## Collect several SRA accession numbers [<img src="https://raw.githubusercontent.com/sebastian-gregoricchio/sebastian-gregoricchio.github.io/main/generic_resources/vignette.svg" align="right" height = 125/>](https://sebastian-gregoricchio.github.io/multiDUMP/resources/download_publicly_available_fastq.html)
+To inspect and collect the samples belonging to a specific project you can follow the [fastq downloading tutorial](https://sebastian-gregoricchio.github.io/multiDUMP/resources/download_publicly_available_fastq.html). A tab-delimited tables can be downloaded from the [ENA browser](https://www.ebi.ac.uk/ena/browser/home) as described in [paragraph 2.2.1](https://sebastian-gregoricchio.github.io/multiDUMP/resources/download_publicly_available_fastq.html#221_Obtain_SRR_numbers) of the tutorial.
+
+
+<br>
+
 
 -----------------
 ## Package history and releases
