@@ -62,6 +62,7 @@ if (len(fastq) == len(new_name)):
             rename = "{NEWNAME}",
             R2_new = ''.join(["{NEWNAME}", config["SUFFIX"][1], config["EXTENSION"]])
         threads: 1
+        retries: 15
         shell:
             """
             printf '\033[1;36mDownloading {params.rename}...\\n\033[0m'
